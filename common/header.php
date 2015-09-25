@@ -14,11 +14,5 @@
 	</div>
 </header>
 <nav>
-	<div class="container">
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-	</div>
+
 </nav>
